@@ -15,6 +15,8 @@ job-ready data scientist.
 02_Numpy_Pandas  
 03_Data_Visualization  
 04_Machine_Learning
+/ Supervised ML 
+/ Unsupervised ML 
 05_Feature_Engineering  
 06_ml_Projects
 
