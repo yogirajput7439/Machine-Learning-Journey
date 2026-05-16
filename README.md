@@ -101,6 +101,6 @@ Each project folder contains:
 ## ▶ How to Run This Repository
 
 ```bash
-git clone https://github.com/Yogirajput7439/AI-ML-Model-Training-Journey
+git clone https://github.com/yogirajput7439/AI-ML-Model-Training-Journey
 cd AI-Model_Training-Journey
 pip install -r requirements.txt
