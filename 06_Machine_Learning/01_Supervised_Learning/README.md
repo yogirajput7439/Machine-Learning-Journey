@@ -88,7 +88,8 @@ Used for predicting categories/classes.
 - Precision
 - Recall
 - F1 Score
-- Confusion Matrix
+- Confusion Matric
+- Classification Reports
 
 ---
 
