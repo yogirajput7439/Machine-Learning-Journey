@@ -16,7 +16,8 @@ job-ready data scientist.
 03_Data_Visualization  
 04_Machine_Learning
 / Supervised ML 
-/ Unsupervised ML 
+/ Unsupervised ML
+
 05_Feature_Engineering  
 06_ml_Projects
 
@@ -68,7 +69,7 @@ Each folder contains practice notebooks, examples and explanations, with comment
 
 ### 📌 Employee Turnover Prediction
 - Problem: Predict whether an employee will leave the company
-- Model: KNN, Decision Tree, SVM
+- Model: KNN, Decision Tree, SVM, LR
 - Metrics: Accuracy, Recall, F1-score
 - Dataset Source: Kaggle
 
